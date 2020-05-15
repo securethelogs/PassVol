@@ -15,6 +15,7 @@ Includes Modifed Version Of Get-DecryptedCpassword | Author: Chris Campbell (@ob
 
 ')
 
+$logo
 
 $xmls = @()
 $cpass = @()
